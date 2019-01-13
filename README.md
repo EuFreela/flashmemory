@@ -28,4 +28,6 @@ sudo msfstart-armitage
 sudo pluma /etc/postgresql/11/main/postgresql.conf
 #search port e change 5432
 service postgresql restart
+msfconsole
+> db_connect
 </pre>
