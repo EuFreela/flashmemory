@@ -23,8 +23,9 @@ ss -ant
 #iniciando init
 msfdb init
 #armitage com cnexão
-#sudo msfstart-armitage
-#sudo pluma /etc/postgresql/11/main/postgresql.conf
+sudo msfstart-armitage
+#edição da porta
+sudo pluma /etc/postgresql/11/main/postgresql.conf
 #search port e change 5432
 service postgresql restart
 </pre>
