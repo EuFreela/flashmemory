@@ -13,3 +13,18 @@
 <pre>
 1. sudo updatedb
 </pre>
+
+### METASPLOIT ERROR PORT 5432
+<pre>
+#iniciar postgree
+service postgresql restart
+#verifique que porta esta trabalhando
+ss -ant
+#iniciando init
+msfdb init
+#armitage com cnexão
+#sudo msfstart-armitage
+#sudo pluma /etc/postgresql/11/main/postgresql.conf
+#search port e change 5432
+service postgresql restart
+</pre>
