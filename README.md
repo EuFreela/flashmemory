@@ -31,3 +31,11 @@ service postgresql restart
 msfconsole
 > db_connect
 </pre>
+
+### Ettercap
+<pre>
+Error: Please select an User Interface
+terminal: sudo ettercap -Tq
+ctrl+c
+open ettercap interface
+</pre>
