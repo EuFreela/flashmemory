@@ -34,7 +34,8 @@ msfconsole
 
 ### Ettercap
 <pre>
-Error: Please select an User Interface
+<b>Modo shell - Error: Please select an User Interface</b>
+<b>Chamada da interface - não abre - sem mensagens</b>
 terminal: sudo ettercap -Tq
 ctrl+c
 open ettercap interface
