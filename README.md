@@ -38,5 +38,5 @@ msfconsole
 <b>Chamada da interface - não abre - sem mensagens</b>
 terminal: sudo ettercap -Tq
 ctrl+c
-open ettercap interface
+Basta abrir o ettercap
 </pre>
