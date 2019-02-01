@@ -14,11 +14,10 @@
 1. sudo updatedb
 </pre>
 
-### Javacinstlaão NETBEANS
+### Javac instação NETBEANS
 <pre>
 sudo find / -type f -iname javac
-/home/legend/.local/share/Trash/files/jdk1.8.0_202/bin/javac
-
+ex: /home/legend/.local/share/Trash/files/jdk1.8.0_202/bin/javac
 caminho: /home/legend/.local/share/Trash/files/jdk1.8.0_202
 </pre>
 
